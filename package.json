@@ -1,0 +1,43 @@
+{
+  "name": "scriptlet",
+  "version": "0.3.0",
+  "description": "scriptlet engine for node.js",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoyk93/scriptlet.git"
+  },
+  "keywords": [
+    "scriptlet",
+    "engine",
+    "microservice"
+  ],
+  "author": "Guo Y.K. <hi@guoyk.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guoyk93/scriptlet/issues"
+  },
+  "homepage": "https://github.com/guoyk93/scriptlet#readme",
+  "devDependencies": {
+    "@types/fs-extra": "^8.0.0",
+    "@types/node": "^12.0.12",
+    "lodash": "^4.17.11",
+    "mocha": "^6.1.4",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.2"
+  },
+  "dependencies": {
+    "fs-extra": "^8.1.0"
+  }
+}
