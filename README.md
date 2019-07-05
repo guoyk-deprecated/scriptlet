@@ -1,6 +1,7 @@
 # scriptlet
 
 [![Build Status](https://travis-ci.org/guoyk93/scriptlet.svg?branch=master)](https://travis-ci.org/guoyk93/scriptlet)
+![GitHub](https://img.shields.io/github/license/guoyk93/scriptlet.svg)
 
 scriptlet engine for node.js
 
